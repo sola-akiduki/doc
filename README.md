@@ -2,7 +2,7 @@
 <br>■紹介<br>・秋月 空<br>
 主人公と一緒にITについて勉強していく女の子<br>
 <img src="https://raw.githubusercontent.com/sola-akiduki/doc/master/image/sola.png"><br>
-・ポーズ<br>
+・ポーズ(色塗り途中)<br>
 <img src="https://raw.githubusercontent.com/sola-akiduki/doc/master/image/sola2.png"><br>
 <br>
 ・トムキャット<br>
